@@ -55,7 +55,8 @@ MealFit is an AI-powered meal planning application designed to generate personal
 - Add fitness and mood tracking features
 
 ---
-
+## Website 
+https://life-fit-meals.lovable.app
 ## 🤝 Connect
 
 Made with 💚 by [Pankaja Kopulkar](https://www.linkedin.com/in/pankajakopulkar/)
